@@ -25,7 +25,7 @@ Hospitals plan beds, staffing, and discharge flow around LOS. This project turns
 - **Plots (PNGs used in README/app):** [`plots/`](plots/)
 
 ### Dashboard Preview (click to open PDF)
-[<img src="plots/feature_importance_visual.png" width="520">](docs/dashboard.pdf)
+[<img src="plots/feature_importance_visual.png" width="520">](docs/hospital-los-prediction-dashboard/docs/Hospital Length Of Stay (LOS) Prediction PDF.pdf)
 
 ---
 
